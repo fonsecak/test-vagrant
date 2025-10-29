@@ -1,4 +1,4 @@
 teste de escrita
 
 
-TEST PUSH $
+TEST PUSH 4
